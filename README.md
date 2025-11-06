@@ -2,6 +2,8 @@
 
 An interactive command-line interface tool for managing replies to guestbook messages in the WRDLSS website. Built with TypeScript and powered by Supabase.
 
+<img width="853" height="480" alt="CleanShot 2025-11-06 at 22 10 46" src="https://github.com/user-attachments/assets/08d9483a-1236-450a-a7e8-129e9d7b3e9f" />
+
 ## ✨ Features
 
 ### 🎯 Core Features
